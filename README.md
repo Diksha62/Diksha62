@@ -6,7 +6,7 @@ I’m a passionate Software Engineer with 2.5 years of experience, skilled in Py
 🧩 Assistant Software Engineer — Planys Technologies
 Apr 2025 – Oct 2025
 
-Working on product development in the marine robotics domain involving ROVs (Remotely Operated Vehicles) and IoT systems.
+Worked on product development in the marine robotics domain involving ROVs (Remotely Operated Vehicles) and IoT systems.
 Tech stack: Python, C++, SQL, AWS, and Linux-based environments.
 Implemented and deployed core software modules for vehicle communication, data exchange, and device integration.
 Developed utilities for real-time data monitoring, improving debugging and field deployment efficiency.
