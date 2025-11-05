@@ -1,4 +1,5 @@
 👋 Hi, I’m Diksha
+
 💡 About Me
 
 I’m a passionate Software Engineer with 2.5 years of experience, skilled in Python, C++, SQL, AWS, and Linux-based systems. I enjoy exploring new technologies and building efficient, scalable solutions.
