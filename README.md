@@ -24,6 +24,7 @@ Worked primarily with Python, SQL, and Excel on database-side operations.
 Focused on automating workflows, improving data accuracy, and optimizing reporting processes.
 
 📚 Learning & Development
+
 Expanded my expertise in MERN Stack Development (MongoDB, Express, React, Node.js).
 Enthusiastic about web development frameworks, backend integration, and scalable system design.
 Open to contributing to open-source projects to sharpen my practical development skills.
